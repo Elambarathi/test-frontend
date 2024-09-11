@@ -1,0 +1,15 @@
+form {
+  max-width: 600px;
+  margin: auto;
+}
+
+input, textarea, button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+img {
+  display: block;
+  margin-bottom: 10px;
+}
